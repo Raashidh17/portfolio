@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Raashidh17/static/css/main.bf538fe7.css",
+    "main.js": "/Raashidh17/static/js/main.0d561c14.js",
+    "static/media/HeroImage.jpg": "/Raashidh17/static/media/HeroImage.f21943615c1ecce08888.jpg",
+    "index.html": "/Raashidh17/index.html",
+    "main.bf538fe7.css.map": "/Raashidh17/static/css/main.bf538fe7.css.map",
+    "main.0d561c14.js.map": "/Raashidh17/static/js/main.0d561c14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.0d561c14.js"
+  ]
+}
